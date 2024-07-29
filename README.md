@@ -289,3 +289,11 @@ Como ves, es muy útil para introducir código dentro de la misma línea o párr
 
 La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco. Esto se corresponde con la etiqueta HTML <pre>
 
+
+    Esto es una línea de código
+
+
+Se convierte en
+
+Esto es una línea de código
+    
